@@ -1,0 +1,22 @@
+1) Open Sql Server 2005; Right click on "Databases" and choose "Attach"; Select the "payroll.mdf" file from "Database" folder and click on OK; Then the database will be attached to sql server.
+
+2) Double click on the "Payroll.sln" file in the "Payroll" folder.
+
+3) Open "web.config" file and change the database password (Ex: 123), if required.
+
+4) Change the "CompanyName" and "City" values as your wish.
+
+5) Run the web site.
+
+
+Administrator Login:
+    UserName: admin
+    Password: payroll123
+    
+Manager Login:
+    UserName: manager
+    Password: payroll123
+
+Employee Login (example):
+    UserName: ram
+    Password: ram123
